@@ -1,8 +1,3 @@
-<style>
-    *{
-        font-family: 'Montserrat', sans-serif;
-    }
-</style>
 <body>
     <center>
         <h1>Welcome to my profile</h1>
@@ -58,7 +53,4 @@
             </p>
             <br>
             
-            </div>
-        </div>
-    </center>
 </body>
