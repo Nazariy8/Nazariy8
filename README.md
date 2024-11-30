@@ -1,6 +1,6 @@
 <body>
     <center>
-       <img src="https://www.codewars.com/users/Nazariy8/badges/large">
+       
         <div>
             <h2 align="center"> About me </h2>
             <p>I am 16 years old student from Ukraine, who is keen on learning Web Development and creating something interesting!</p>
@@ -40,7 +40,7 @@
                     <br><br>
             </p>
             <br>
-            [![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/username)
+            <img src="https://www.codewars.com/users/Nazariy8/badges/large">
             <h2 align="center"> Contacts</h2>
             <p align="center">
                 <div class="viber">
