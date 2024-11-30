@@ -1,6 +1,6 @@
 <body>
     <center>
-       [![codewars](https://www.codewars.com/users/Nazariy8/badges/large)](https://www.codewars.com/users/Nazariy8)
+       [(https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/username)
         <div>
             <h2 align="center"> About me </h2>
             <p>I am 16 years old student from Ukraine, who is keen on learning Web Development and creating something interesting!</p>
