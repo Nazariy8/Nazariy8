@@ -11,7 +11,7 @@
                 <b>Last name:</b> Yavorskyi
             </li>
             <li>
-                <b>Gender:</b> he/his/Male
+                <b>Gender:</b> he/him/Male
             </li>
             <li>
                 <b>Hobbys:</b> Basketball, Graphic Design, Web Development
