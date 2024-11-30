@@ -37,7 +37,7 @@
                     src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
                 <img
                     src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-                    <br><br>
+                    <br>
             </p>
             <p align="center"><img src="https://www.codewars.com/users/Nazariy8/badges/large"></p>
             <h2 align="center"> Contacts</h2>
