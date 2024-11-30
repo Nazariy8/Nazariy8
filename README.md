@@ -40,6 +40,7 @@
                     <br><br>
             </p>
             <br>
+            <img src="[![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/username)">
             <h2 align="center"> Contacts</h2>
             <p align="center">
                 <div class="viber">
