@@ -1,6 +1,6 @@
 <body>
     <center>
-       
+        <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20to%20my%20profile&reversal=false">
         <div>
             <h2 align="center"> About me </h2>
             <p>I am 16 years old student from Ukraine, who is keen on learning Web Development and creating something interesting!</p>
@@ -11,7 +11,7 @@
                 <b>Last name:</b> Yavorskyi
             </li>
             <li>
-                <b>Gender:</b> he/him/Male
+                <b>Gender:</b> he/his/Male
             </li>
             <li>
                 <b>Hobbys:</b> Basketball, Graphic Design, Web Development
