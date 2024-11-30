@@ -39,7 +39,6 @@
                     src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
                     <br><br>
             </p>
-            <br>
             <p align="center"><img src="https://www.codewars.com/users/Nazariy8/badges/large"></p>
             <h2 align="center"> Contacts</h2>
             <p align="center">
