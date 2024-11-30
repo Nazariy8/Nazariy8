@@ -1,6 +1,6 @@
 <body>
     <center>
-        <img src="[https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20to%20my%20profile&reversal=false](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Welcome%20to%20my%20profile&reversal=false)" />
+        <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Welcome%20to%20my%20profile&reversal=false" />
         <div>
             <h2 align="center"> About me </h2>
             <p>I am 16 years old student from Ukraine, who is keen on learning Web Development and creating something interesting!</p>
