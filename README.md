@@ -14,7 +14,7 @@
                 <b>Gender:</b> he/his/Male
             </li>
             <li>
-                <b>Hobbys:</b> Basketball, Graphic Design, Web Development
+                <b>Hobbys:</b> Sports, Graphic Design
             </li>
             <br><br><br>
         </div>
