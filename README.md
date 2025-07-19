@@ -35,6 +35,8 @@
                     src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
                 <img
                     src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+                <img
+                    src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E](https://img.shields.io/badge/Babel-F9DC3E?logo=babel&logoColor=000)](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
             </p>
             <h2 align="center"> Contacts</h2>
             <p align="center">
