@@ -1,7 +1,7 @@
 <body>
     <center>
         <div>
-            <h1>Welcome to my profile!</h1>
+            <h1>Hi there! I am Nazar Yavorskyi</h1>
             <p>I am 17-year-old student from the little city near the Lviv(Ukrainer) and still learning programming to become better every day. I am passionate about programming, so my goal is to be a proffesional programmer and coope with the same poeple that i will be surrounded with.</p>
             <li>
                 <b>Name:</b> Nazar
