@@ -3,7 +3,7 @@
         <div>
             <h1>Welcome to my profile!</h1>
             <h2 align="center"> About me </h2>
-            <p>I am 17 years old student from Ukraine. I am from the little city near the Lviv, where i grew up and found out about such a good thing as a programming.</p>
+            <p>I am 17-year-old student from the little city near the Lviv(Ukrainer), where i grew up and found out about such a good thing as a programming. I have aready spent more than 4 years on learning different languages and now my goal is to obtain solid knowledge of frameworks and libraries, as: React, Babel, Bootstrap. </p>
             <li>
                 <b>Name:</b> Nazar
             </li>
