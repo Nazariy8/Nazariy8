@@ -2,7 +2,7 @@ zs<body>
     <center>
         <div>
             <h1>Welcome to my profile!</h1>
-            <p>I am 17-year-old student from the little city near the Lviv(Ukrainer) and still learning programming to become better in future. </p>
+            <p>I am 17-year-old student from the little city near the Lviv(Ukrainer) and still learning programming to become better in future.</p>
             <li>
                 <b>Name:</b> Nazar
             </li>
@@ -20,6 +20,9 @@ zs<body>
             </li>
             <li>
                 <b>My positive sides</b>: enthusiastic, interested in progressing every day, creative, resposible and fun person
+            </li>
+            <li>
+            <b>Status</b>:learn programming and in search of work
             </li>
             <br><br><br>
         </div>
