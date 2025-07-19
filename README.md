@@ -1,4 +1,4 @@
-<body>
+zs<body>
     <center>
         <div>
             <h1>Welcome to my profile!</h1>
@@ -19,7 +19,7 @@
                <b> English skills</b>: Verified English B2 (IELTS test)
             </li>
             <li>
-                <b>My positive side</b>: enthusiastic, interested in progressing every day, creative, resposible and fun person
+                <b>My positive sides</b>: enthusiastic, interested in progressing every day, creative, resposible and fun person
             </li>
             <br><br><br>
         </div>
