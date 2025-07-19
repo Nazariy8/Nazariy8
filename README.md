@@ -2,7 +2,6 @@
     <center>
         <div>
             <h1>Welcome to my profile!</h1>
-            <h2 align="center"> About me </h2>
             <p>I am 17-year-old student from the little city near the Lviv(Ukrainer) and still learning programming to become better in future. </p>
             <li>
                 <b>Name:</b> Nazar
