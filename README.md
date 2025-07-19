@@ -37,7 +37,6 @@
                     src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
                     <br>
             </p>
-            <p align="center"><img src="https://www.codewars.com/users/Nazariy8/badges/large"></p>
             <h2 align="center"> Contacts</h2>
             <p align="center">
                 <div class="viber">
