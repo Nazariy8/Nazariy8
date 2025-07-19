@@ -22,7 +22,7 @@ zs<body>
                 <b>My positive sides</b>: enthusiastic, interested in progressing every day, creative, resposible and fun person
             </li>
             <li>
-            <b>Status</b>:learn programming and in search of work
+            <b>Status</b>: learn programming and in search of work
             </li>
             <br><br><br>
         </div>
