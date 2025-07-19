@@ -46,7 +46,7 @@
                 <img
                     src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
             </p>
-            <p align="center" >In the past i had experience to learn
+            <p align="center" >In the past i experienced learning of
                 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
                 <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
             </p>
