@@ -16,7 +16,7 @@
                 <b>Hobbys:</b> Sports and Music Arts
             </li>
             <li>
-               <b> English skills</b>: Verified English B2 (IELTS test)
+               <b> English skills</b>: Verified English B2 Level (IELTS test)
             </li>
             <li>
                 <b>My positive sides</b>: enthusiastic, interested in progressing every day, creative, resposible and fun person
