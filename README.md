@@ -3,7 +3,7 @@
         <div>
             <h1>Welcome to my profile!</h1>
             <h2 align="center"> About me </h2>
-            <p>I am 16 years old student from Ukraine, who is keen on learning Web Development and creating something interesting!</p>
+            <p>I am 17 years old student from Ukraine. I am from the little city near the Lviv, where i grew up and found out about such a good thing as a programming.</p>
             <li>
                 <b>Name:</b> Nazar
             </li>
@@ -14,7 +14,7 @@
                 <b>Gender:</b> he/his/Male
             </li>
             <li>
-                <b>Hobbys:</b> Sports, Graphic Design
+                <b>Hobbys:</b> Sports and Music Arts
             </li>
             <br><br><br>
         </div>
@@ -30,12 +30,11 @@
                 <img
                     src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
                 <img
-                    src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" /><br>
+                    src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
                 <img
                     src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
                 <img
                     src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-                    <br>
             </p>
             <h2 align="center"> Contacts</h2>
             <p align="center">
