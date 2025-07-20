@@ -50,6 +50,10 @@
                 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
                 <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
             </p>
+            <h2>My mini-projects</h2>
+            <a href="https://nazariy8.github.io/Calculator/">Calculator</a>
+            <a href="https://nazariy8.github.io/Mountains/index.html">Moutains site</a>
+            <a href="https://nazariy8.github.io/ANIME.IN.UA/index.html">Anime site</a>
             <h2 align="center"> Contacts</h2>
             <p align="center">
                 <div class="viber">
