@@ -19,7 +19,7 @@
                <b> English skills</b>: Verified English B2 Level (IELTS test)
             </li>
             <li>
-                <b>My positive sides</b>: enthusiastic, interested in progressing every day, creative, resposible and fun person
+                <b>My positive sides</b>: enthusiastic, interested in progressing every day, creative, responsible and fun person
             </li>
             <li>
             <b>Status</b>: learn programming and in search of work
