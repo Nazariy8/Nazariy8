@@ -10,7 +10,7 @@
                 <b>Last name:</b> Yavorskyi
             </li>
             <li>
-                <b>Gender:</b> he/his/Male
+                <b>Gender:</b> Male
             </li>
             <li>
                 <b>Hobbys:</b> Sports and Music Arts
