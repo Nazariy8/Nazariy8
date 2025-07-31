@@ -60,6 +60,9 @@
             <p>    
             <a href="https://nazariy8.github.io/ANIME.IN.UA/index.html">Anime site</a>
             </p>
+            <p>    
+            <a href="https://nazariy8.github.io/React-Quiz-test/">Quiz Test</a>
+            </p>
             <h2 align="center"> Contacts</h2>
             <p align="center">
                 <div class="viber">
