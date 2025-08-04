@@ -51,18 +51,15 @@
                 <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
             </p>
             <h2 align="center">My mini-projects</h2>
-            <p>
-            <a href="https://nazariy8.github.io/Calculator/">Calculator</a>
-            </p>
-            <p>    
-            <a href="https://nazariy8.github.io/Mountains/index.html">Moutains site</a>
-            </p>
-            <p>    
-            <a href="https://nazariy8.github.io/ANIME.IN.UA/index.html">Anime site</a>
-            </p>
-            <p>    
-            <a href="https://nazariy8.github.io/React-Quiz-test/">Quiz Test</a>
-            </p>
+           <table align="center">
+              <tr>
+                <td><a href="https://nazariy8.github.io/Calculator/" target="_blank">Calculator</a></td>
+                <td><a href="https://nazariy8.github.io/Mountains/index.html">Mountains site</a></td>
+                <td><a href="https://nazariy8.github.io/ANIME.IN.UA/index.html">Anime site</a></td>
+                <td><a href="https://nazariy8.github.io/React-Quiz-test/">Quiz Test</a></td>
+                <td><a href="https://nazariy8.github.io/Currency-converter/">Currency converter</a></td>
+              </tr>
+            </table>
             <h2 align="center"> Contacts</h2>
             <p align="center">
                 <div class="viber">
