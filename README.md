@@ -50,7 +50,7 @@
                 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
                 <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
             </p>
-
+        </div>
              <h2 align="center">My main projects</h2>
              <p align="center"><a href="https://nazariy8.github.io/Dormly/">Dormly</a></p>
             <h2 align="center">My mini-projects</h2>
