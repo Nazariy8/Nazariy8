@@ -57,7 +57,6 @@
            <table align="center">
               <tr>
                 <td><a href="https://nazariy8.github.io/Calculator/" target="_blank">Calculator</a></td>
-                <td><a href="https://nazariy8.github.io/Mountains/index.html">Mountains site</a></td>
                 <td><a href="https://nazariy8.github.io/ANIME.IN.UA/index.html">Anime site</a></td>
                 <td><a href="https://nazariy8.github.io/React-Quiz-test/">Quiz Test</a></td>
                 <td><a href="https://nazariy8.github.io/Currency-converter/">Currency converter</a></td>
