@@ -66,7 +66,7 @@
             <p align="center">
                 <div class="viber">
                     <img src="https://img.shields.io/badge/viber-685EA9?style=for-the-badge&logo=viber&logoColor=white" /><br>
-                    <p><b>My phone number:</b> +099 082 52 46</p>
+                    <p><b>My phone number:</b> +380 99 082 52 46</p>
                 </div>
                 <div class="viber">
                     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /><br>
