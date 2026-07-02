@@ -59,6 +59,7 @@
                 <td><a href="https://nazariy8.github.io/Calculator/" target="_blank">Calculator</a></td>
                 <td><a href="https://nazariy8.github.io/React-Quiz-test/">Quiz Test</a></td>
                 <td><a href="https://nazariy8.github.io/Currency-converter/">Currency converter</a></td>
+                <td><a href="https://nazariy8.github.io/WebShop/">WebShop</a></td>
               </tr>
             </table>
             <h2 align="center"> Contacts</h2>
