@@ -45,10 +45,10 @@ Passionate about building responsive, user-friendly, and performant web applicat
 - **[Dormly](https://github.com/Nazariy8/Dormly)** — Web application designed to help university students find compatible roommates for dormitory living.
 
 #### 📦 Mini-Projects & Practice
-- **[Currency Converter](https://github.com/Nazariy8)** — Simple & fast currency conversion tool
-- **[Quiz Test](https://github.com/Nazariy8)** — Interactive quiz application
-- **[Calculator](https://github.com/Nazariy8)** — Clean JS calculator interface
-- **[WebShop](https://github.com/Nazariy8)** — E-commerce store prototype
+- **[Currency Converter](https://nazariy8.github.io/Currency-converter/)** — Simple & fast currency conversion tool
+- **[Quiz Test](https://nazariy8.github.io/React-Quiz-test/)** — Interactive quiz application
+- **[Calculator](https://nazariy8.github.io/Calculator/)** — Clean JS calculator interface
+- **[WebShop](https://nazariy8.github.io/WebShop/)** — E-commerce store prototype
 
 ---
 
