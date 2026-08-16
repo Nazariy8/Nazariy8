@@ -55,5 +55,5 @@ Passionate about building responsive, user-friendly, and performant web applicat
 
 ### 📬 Connect with Me
 
-- **Telegram:** [@toyer_8](https://t.me/toyer_8)
+- **Telegram/Instagram:** [@toyer_8](https://t.me/toyer_8)
 - **Viber / Phone:** `+380 99 082 52 46`
