@@ -1,79 +1,59 @@
-<body>
-    <center>
-        <div>
-            <h1>Hi there! I am Nazar Yavorskyi</h1>
-            <p>I am a 17-year-old student from a small town near Lviv, Ukraine. I am still learning programming and strive to become better every day. I'm passionate about programming, and my goal is to become a professional programmer and collaborate with like-minded people.</p>
-            <li>
-                <b>Name:</b> Nazar
-            </li>
-            <li>
-                <b>Last name:</b> Yavorskyi
-            </li>
-            <li>
-                <b>Gender:</b> Male
-            </li>
-            <li>
-                <b>Hobbys:</b> Sports and Music Arts
-            </li>
-            <li>
-               <b> English skills</b>: Verified English B2 Level (IELTS test)
-            </li>
-            <li>
-                <b>My positive sides</b>: enthusiastic, interested in progressing every day, creative, responsible and fun person
-            </li>
-            <li>
-            <b>Status</b>: learn programming and in search of work
-            </li>
-            <br><br><br>
-        </div>
-        <div>
-            <br>
-            <p>
-                <h2 align="center"> Knowledge </h2>
-        </div>
-        <div>
-            <br>
-            <p align="center"><img
-                    src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
-                <img
-                    src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-                <img
-                    src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-                <img
-                    src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-                <img
-                    src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-                <img
-                    src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-            </p>
-            <p align="center" >In the past i experienced learning of
-                <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-                <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
-            </p>
-            <h2 align="center">My mini-projects</h2>
-            <p>
-            <a href="https://nazariy8.github.io/Calculator/">Calculator</a>
-            </p>
-            <p>    
-            <a href="https://nazariy8.github.io/Mountains/index.html">Moutains site</a>
-            </p>
-            <p>    
-            <a href="https://nazariy8.github.io/ANIME.IN.UA/index.html">Anime site</a>
-            </p>
-            <p>    
-            <a href="https://nazariy8.github.io/React-Quiz-test/">Quiz Test</a>
-            </p>
-            <h2 align="center"> Contacts</h2>
-            <p align="center">
-                <div class="viber">
-                    <img src="https://img.shields.io/badge/viber-685EA9?style=for-the-badge&logo=viber&logoColor=white" /><br>
-                    <p><b>My phone number:</b> +099 082 52 46</p>
-                </div>
-                <div class="viber">
-                    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /><br>
-                    <p><b>My nickname:</b> @toyer_8</p>
-                </div>
-            </p>
-            <br>
-            
-</body>
+# Hi there, I'm Nazar Yavorskyi 👋
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/toyer_8)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/toyer_8/)
+[![English B2](https://img.shields.io/badge/English-B2%20(IELTS)-blue?style=for-the-badge)](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages)
+
+---
+
+### 👨‍💻 About Me
+
+I am a **Frontend Developer** and Computer Science student at **Lviv Polytechnic National University**.  
+Passionate about building responsive, user-friendly, and performant web applications with clean code and great UI/UX.
+
+- 🎓 **Education:** CS student at Lviv Polytechnic National University
+- 💡 **Interests:** Modern Web Development, UI/UX Design, Sports & Music Arts
+- 🌐 **English:** Verified B2 Level (IELTS)
+- 🎯 **Current Focus:** Deepening my knowledge in **TypeScript** and modern React ecosystem
+- 💼 **Status:** Open to **Junior / Trainee Frontend Developer** opportunities and internships
+
+---
+
+### 🛠 Tech Stack & Tools
+
+**Frontend & Styling:**  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+
+**Data, Backend & Tools:**  
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=rest&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=black)
+
+---
+
+### 🚀 Projects
+
+#### 🌟 Main Project
+- **[Dormly](https://github.com/Nazariy8/Dormly)** — Web application designed to help university students find compatible roommates for dormitory living.
+
+#### 📦 Mini-Projects & Practice
+- **[Currency Converter](https://nazariy8.github.io/Currency-converter/)** — Simple & fast currency conversion tool
+- **[Quiz Test](https://nazariy8.github.io/React-Quiz-test/)** — Interactive quiz application
+- **[Calculator](https://nazariy8.github.io/Calculator/)** — Clean JS calculator interface
+- **[WebShop](https://nazariy8.github.io/WebShop/)** — E-commerce store prototype
+
+---
+
+### 📬 Connect with Me
+
+- **Telegram/Instagram:** [@toyer_8](https://t.me/toyer_8)
+- **Viber / Phone:** `+380 99 082 52 46`
